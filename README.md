@@ -116,8 +116,7 @@ Hi! I'm an engineering student at **Lovely Professional University**, based in L
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Nikh1lXDev&theme=dark&hide_border=true&background=0d1117&ring=6AD3F7&fire=6AD3F7&currStreakNum=c9d1d9&v=1" width="48%" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nikh1lXDev&layout=compact&hide_border=true&bg_color=0d1117&title_color=6AD3F7&text_color=c9d1d9&v=2" width="48%" />
+<img src="https://streak-stats.demolab.com?user=Nikh1lXDev&theme=dark&hide_border=true&background=0d1117&ring=6AD3F7&fire=6AD3F7&currStreakNum=c9d1d9&v=1" />
 
 <br/><br/>
 

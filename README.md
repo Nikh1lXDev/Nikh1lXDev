@@ -38,7 +38,7 @@ Hi! I'm an engineering student at **Lovely Professional University**, based in L
 <br/>
 <img src="https://komarev.com/ghpvc/?username=Nikh1lXDev&style=for-the-badge&color=212121&label=PROFILE+VIEWS&v=1" />
 <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Nikh1lXDev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6AD3F7&text_color=c9d1d9&icon_color=6AD3F7&v=1" width="90%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nikh1lXDev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6AD3F7&text_color=c9d1d9&icon_color=6AD3F7&v=2" width="90%" />
 
 </td>
 </tr>
@@ -117,11 +117,11 @@ Hi! I'm an engineering student at **Lovely Professional University**, based in L
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Nikh1lXDev&theme=dark&hide_border=true&background=0d1117&ring=6AD3F7&fire=6AD3F7&currStreakNum=c9d1d9&v=1" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikh1lXDev&layout=compact&hide_border=true&bg_color=0d1117&title_color=6AD3F7&text_color=c9d1d9&v=1" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nikh1lXDev&layout=compact&hide_border=true&bg_color=0d1117&title_color=6AD3F7&text_color=c9d1d9&v=2" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikh1lXDev&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&hide_border=true&v=1" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikh1lXDev&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&hide_border=true&v=2" width="100%" />
 
 </div>
 
@@ -138,10 +138,6 @@ Hi! I'm an engineering student at **Lovely Professional University**, based in L
 | **Board Infinity** | Data Structures & Algorithms |
 | **NPTEL** | Cloud Computing |
 | **FreeCodeCamp** | Responsive Web Design |
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nikh1lXDev&theme=radical&no-frame=true&no-bg=true&margin-w=15&v=1" />
 
 </div>
 

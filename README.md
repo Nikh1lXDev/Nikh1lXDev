@@ -87,11 +87,31 @@ A production-grade audio streaming platform with secure authentication, real-tim
 
 ---
 
-## 📊 GitHub Overview
+## 🏆 Competitive Coding & Profiles
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikh1lXDev&show_icons=true&theme=transparent&hide_border=true&title_color=6E40C9&icon_color=6E40C9&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikh1lXDev&layout=compact&theme=transparent&hide_border=true&title_color=6E40C9&text_color=C9D1D9" alt="Top Languages" width="48%" />
+  <a href="https://leetcode.com/u/nikhil12121/">
+    <img src="https://leetcard.jacoblin.cool/nikhil12121?theme=tokyonight&font=Fira%20Code&ext=activity" alt="LeetCode Stats" width="48%" />
+  </a>
+  <a href="https://codolio.com/profile/NIKHIL%20KUMAR%20YADAV">
+    <img src="https://raw.githubusercontent.com/Nikh1lXDev/Nikh1lXDev/main/codolio_card.svg" alt="Codolio" width="48%" />
+  </a>
+  <br/><br/>
+  <a href="https://www.geeksforgeeks.org/profile/ny186ph1i">
+    <img src="https://gfgstatscard.vercel.app/ny186ph1i?theme=tokyonight" alt="GeeksForGeeks" width="48%" />
+  </a>
+  <a href="https://github.com/Nikh1lXDev">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nikh1lXDev&show_icons=true&theme=tokyonight&hide_border=true&title_color=6E40C9&icon_color=6E40C9&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" width="48%" />
+  </a>
+</div>
+
+---
+
+## 📈 Open Source Activity
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikh1lXDev&layout=compact&theme=transparent&hide_border=true&title_color=6E40C9&text_color=C9D1D9" alt="Top Languages" width="60%" />
   
   <br/><br/>
   
@@ -100,12 +120,5 @@ A production-grade audio streaming platform with secure authentication, real-tim
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nikh1lXDev/Nikh1lXDev/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nikh1lXDev/Nikh1lXDev/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
-</div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nikh1lXDev/Nikh1lXDev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nikh1lXDev/Nikh1lXDev/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nikh1lXDev/Nikh1lXDev/output/github-contribution-grid-snake-dark.svg">
-  </picture>
 </div>

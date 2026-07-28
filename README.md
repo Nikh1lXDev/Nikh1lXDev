@@ -157,7 +157,7 @@ Exploring additional projects across full-stack, AI tooling, and developer utili
 <br/><br/>
 
 <a href="https://www.geeksforgeeks.org/profile/ny186ph1i">
-  <img src="https://raw.githubusercontent.com/Nikh1lXDev/Nikh1lXDev/main/gfg_card.svg" alt="GeeksForGeeks" width="45%" />
+  <img src="https://gfgstatscard.vercel.app/ny186ph1i?theme=tokyonight" alt="GeeksForGeeks" width="45%" />
 </a>
 &nbsp;
 <a href="https://codolio.com/profile/NIKHIL%20KUMAR%20YADAV">

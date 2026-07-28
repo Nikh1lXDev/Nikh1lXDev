@@ -1,13 +1,10 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  BANNER — dark.svg / light.svg auto-switch via <picture>  -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
+<!-- Animated banner — dark/light auto-switch -->
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Nikh1lXDev/Nikh1lXDev/main/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nikh1lXDev/Nikh1lXDev/main/light.svg">
-  <img alt="Nikhil Kumar Yadav — Full Stack Developer & AI Enthusiast"
+  <img alt="Nikhil Kumar Yadav — Full Stack Developer and AI Enthusiast"
        src="https://raw.githubusercontent.com/Nikh1lXDev/Nikh1lXDev/main/dark.svg"
        width="100%">
 </picture>
@@ -19,7 +16,6 @@
 
 <br/>
 
-<!-- Social + Profile badges — consistent flat-square style -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilkumaryadav)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/nikhil12121/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/ny186ph1i)
@@ -33,12 +29,20 @@
 
 ## 👋 About Me
 
+<img src="https://raw.githubusercontent.com/Nikh1lXDev/Nikh1lXDev/main/photo.jpg"
+     alt="Nikhil Kumar Yadav"
+     width="160"
+     align="right"
+     style="border-radius:50%; margin-left:20px; margin-bottom:10px;">
+
 I'm **Nikhil Kumar Yadav**, a pre-final year **Computer Science** student at **Lovely Professional University** (B.Tech, 2023–2027), Punjab, India. I build production-grade **full-stack web apps** and **AI-powered systems** with a focus on scalability, clean architecture, and real-world impact.
 
 - 🔭 Building **AlphaLens AI** (multi-agent investment research) & **Construction Quality Pulse** (enterprise QA monitoring)
 - 🌱 Deepening expertise in **System Design**, **DevOps**, and **AI Engineering** — LangGraph, RAG, LLMs
 - 💡 Passionate about clean code, open source, and solving hard problems with elegant systems
 - 📫 **ny186871@gmail.com** · Open to internships and full-time opportunities
+
+<br clear="right"/>
 
 ---
 
@@ -172,8 +176,6 @@ Curated vault of 200+ data structure and algorithm implementations in C++ — ar
 
 ## 🚧 What I'm Building Now
 
-> *Updated July 2025 — edit this table as milestones change*
-
 | | Project | Status |
 |:---:|:---|:---|
 | 🧠 | **AlphaLens AI** — Multi-agent investment research | 🔄 Active |
@@ -208,7 +210,7 @@ Curated vault of 200+ data structure and algorithm implementations in C++ — ar
 
 **💼 Availability**
 - Open to full-stack / AI internships
-- Remote & on-site roles · from 2025
+- Remote & on-site · from 2025
 - 📩 [ny186871@gmail.com](mailto:ny186871@gmail.com)
 
 </td>

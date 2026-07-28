@@ -1,0 +1,25 @@
+<svg width="400" height="150" viewBox="0 0 400 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #6E40C9; }
+    .username { font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C9D1D9; }
+    .btn { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff; }
+  </style>
+  <rect width="400" height="150" rx="10" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
+  <g transform="translate(25, 35)">
+    <circle cx="17.5" cy="17.5" r="17.5" fill="#6E40C9"/><path d="M21 10.5C21 9.67157 20.3284 9 19.5 9H15.5C14.6716 9 14 9.67157 14 10.5V11.5H12V10.5C12 8.567 13.567 7 15.5 7H19.5C21.433 7 23 8.567 23 10.5V24.5C23 26.433 21.433 28 19.5 28H15.5C13.567 28 12 26.433 12 24.5V23.5H14V24.5C14 25.3284 14.6716 26 15.5 26H19.5C20.3284 26 21 25.3284 21 24.5V10.5Z" fill="white"/>
+    <text x="50" y="22" class="header">Codolio</text>
+  </g>
+  <g transform="translate(25, 75)">
+    <text x="0" y="15" class="username">@NIKHIL KUMAR YADAV</text>
+  </g>
+  <g transform="translate(25, 110)">
+    <rect width="100" height="26" rx="4" fill="#6E40C9" />
+    <text x="50" y="18" text-anchor="middle" class="btn">View Profile</text>
+  </g>
+  
+  <circle cx="340" cy="75" r="40" fill="none" stroke="#6E40C9" stroke-width="4" stroke-dasharray="10 4" opacity="0.4">
+    <animateTransform attributeName="transform" type="rotate" from="0 340 75" to="360 340 75" dur="15s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="340" cy="75" r="28" fill="none" stroke="#6E40C9" stroke-width="2" opacity="0.8"/>
+  <circle cx="340" cy="75" r="3" fill="#6E40C9"/>
+</svg>

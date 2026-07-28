@@ -1,18 +1,14 @@
 <div align="center">
 
-<!-- Animated banner — dark/light auto-switch -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Nikh1lXDev/Nikh1lXDev/main/dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nikh1lXDev/Nikh1lXDev/main/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nikh1lXDev/Nikh1lXDev/main/light.svg">
-  <img alt="Nikhil Kumar Yadav — Full Stack Developer and AI Enthusiast"
-       src="https://raw.githubusercontent.com/Nikh1lXDev/Nikh1lXDev/main/dark.svg"
-       width="100%">
+  <img alt="Nikhil Kumar Yadav — Full Stack Developer & AI Enthusiast" src="https://raw.githubusercontent.com/Nikh1lXDev/Nikh1lXDev/main/dark.svg" width="100%">
 </picture>
 
 <br/>
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=660&lines=Full+Stack+Developer+%7C+AI+Enthusiast;MERN+Stack+%C2%B7+LangGraph+%C2%B7+System+Design;Building+scalable%2C+impactful+software+%F0%9F%9A%80)](https://github.com/Nikh1lXDev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=680&lines=Full+Stack+Developer+%7C+AI+Enthusiast;MERN+Stack+%C2%B7+LangGraph+%C2%B7+System+Design;Building+scalable%2C+impactful+software)](https://github.com/Nikh1lXDev)
 
 <br/>
 
@@ -29,20 +25,12 @@
 
 ## 👋 About Me
 
-<img src="https://raw.githubusercontent.com/Nikh1lXDev/Nikh1lXDev/main/photo.jpg"
-     alt="Nikhil Kumar Yadav"
-     width="160"
-     align="right"
-     style="border-radius:50%; margin-left:20px; margin-bottom:10px;">
-
 I'm **Nikhil Kumar Yadav**, a pre-final year **Computer Science** student at **Lovely Professional University** (B.Tech, 2023–2027), Punjab, India. I build production-grade **full-stack web apps** and **AI-powered systems** with a focus on scalability, clean architecture, and real-world impact.
 
-- 🔭 Building **AlphaLens AI** (multi-agent investment research) & **Construction Quality Pulse** (enterprise QA monitoring)
-- 🌱 Deepening expertise in **System Design**, **DevOps**, and **AI Engineering** — LangGraph, RAG, LLMs
-- 💡 Passionate about clean code, open source, and solving hard problems with elegant systems
-- 📫 **ny186871@gmail.com** · Open to internships and full-time opportunities
-
-<br clear="right"/>
+- 🔭 Currently building **AlphaLens AI** (multi-agent investment research) and **Construction Quality Pulse** (enterprise QA monitoring)
+- 🌱 Deepening expertise in **System Design**, **DevOps**, and **AI Engineering** (LangGraph, RAG, LLMs)
+- 💡 Passionate about clean code, open-source, and solving hard problems with elegant systems
+- 📫 Reach me at **ny186871@gmail.com** · Open to internships and collaborations
 
 ---
 
@@ -55,12 +43,12 @@ I'm **Nikhil Kumar Yadav**, a pre-final year **Computer Science** student at **L
 ### 🧠 AlphaLens AI
 > Multi-Agent AI Investment Research Assistant
 
-Autonomous agents built with **LangGraph + Gemini** that analyze stocks in real time — pulling live market data, aggregating financial news, and generating structured research reports.
+Autonomous agents powered by **LangGraph + Gemini** that analyze stocks in real time — pulling live market data, aggregating financial news, and generating structured research reports.
 
-**Stack:** `Next.js` `Node.js` `MongoDB` `LangGraph` `Gemini` `Yahoo Finance` `Tavily`
+**Stack:** Next.js · Node.js · MongoDB · LangGraph · Gemini · Yahoo Finance · Tavily
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nikh1lXDev/alphalens-ai)
-![Stars](https://img.shields.io/github/stars/Nikh1lXDev/alphalens-ai?style=flat-square&color=6E40C9&label=Stars)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Nikh1lXDev/alphalens-ai)
+![Stars](https://img.shields.io/github/stars/Nikh1lXDev/alphalens-ai?style=flat-square&color=6E40C9)
 ![Last Commit](https://img.shields.io/github/last-commit/Nikh1lXDev/alphalens-ai?style=flat-square&color=6E40C9)
 
 </td>
@@ -69,12 +57,12 @@ Autonomous agents built with **LangGraph + Gemini** that analyze stocks in real 
 ### 🏗️ Construction Quality Pulse
 > Enterprise Daily QA Monitoring System
 
-Real-time platform for construction site QA — role-based dashboards, live notifications via Socket.io, Cloudinary image uploads, and full analytics reporting.
+Real-time platform for construction site quality assurance — role-based dashboards, live notifications via Socket.io, image uploads, and full analytics reporting.
 
-**Stack:** `React` `Node.js` `Express` `MongoDB` `Socket.io` `Cloudinary` `JWT`
+**Stack:** React · Node.js · Express · MongoDB · Socket.io · Cloudinary · JWT
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nikh1lXDev/construction-quality-pulse)
-![Stars](https://img.shields.io/github/stars/Nikh1lXDev/construction-quality-pulse?style=flat-square&color=6E40C9&label=Stars)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Nikh1lXDev/construction-quality-pulse)
+![Stars](https://img.shields.io/github/stars/Nikh1lXDev/construction-quality-pulse?style=flat-square&color=6E40C9)
 ![Last Commit](https://img.shields.io/github/last-commit/Nikh1lXDev/construction-quality-pulse?style=flat-square&color=6E40C9)
 
 </td>
@@ -85,12 +73,12 @@ Real-time platform for construction site QA — role-based dashboards, live noti
 ### 📚 DSA Repository
 > C++ Algorithms & Competitive Programming
 
-Curated vault of 200+ data structure and algorithm implementations in C++ — arrays to advanced graphs, contest templates, LeetCode & GFG solutions.
+Structured vault of 200+ data structure and algorithm implementations in C++ — from arrays to advanced graph algorithms, contest templates, and LeetCode / GFG solutions.
 
-**Stack:** `C++` `Algorithms` `Competitive Programming`
+**Stack:** C++ · Algorithms · Competitive Programming
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nikh1lXDev/DSA)
-![Stars](https://img.shields.io/github/stars/Nikh1lXDev/DSA?style=flat-square&color=6E40C9&label=Stars)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Nikh1lXDev/DSA)
+![Stars](https://img.shields.io/github/stars/Nikh1lXDev/DSA?style=flat-square&color=6E40C9)
 ![Last Commit](https://img.shields.io/github/last-commit/Nikh1lXDev/DSA?style=flat-square&color=6E40C9)
 
 </td>
@@ -98,13 +86,14 @@ Curated vault of 200+ data structure and algorithm implementations in C++ — ar
 
 ### 🔭 More Work
 
+Exploring additional projects across full-stack, AI tooling, and developer utilities.
+
 [![All Repositories](https://img.shields.io/badge/GitHub-View_All_Repos-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nikh1lXDev?tab=repositories)
 
-**Exploring:**
+**Currently building:**
 - Real-time collaborative tools
 - AI-powered developer utilities
 - Open source contributions
-- System design implementations
 
 </td>
 </tr>
@@ -114,14 +103,23 @@ Curated vault of 200+ data structure and algorithm implementations in C++ — ar
 
 ## 🛠️ Tech Stack
 
-| Domain | Technologies |
-|:---|:---|
-| **Languages** | `C++` `JavaScript` `Python` `SQL` |
-| **Frontend** | `React` `Next.js` `HTML5` `CSS3` `Tailwind CSS` |
-| **Backend** | `Node.js` `Express.js` `Socket.io` `REST APIs` |
-| **Database** | `MongoDB` `MySQL` |
-| **AI / ML** | `LangGraph` `Google Gemini` `OpenAI API` `RAG` |
-| **DevOps & Tools** | `Docker` `GitHub Actions` `Vercel` `Git` `Linux` `Postman` |
+**Languages**
+`C++` `JavaScript` `Python` `SQL`
+
+**Frontend**
+`React` `Next.js` `HTML5` `CSS3` `Tailwind CSS`
+
+**Backend**
+`Node.js` `Express.js` `Socket.io` `REST APIs`
+
+**Database**
+`MongoDB` `MySQL`
+
+**AI / ML**
+`LangGraph` `Google Gemini` `OpenAI API` `RAG Pipelines`
+
+**DevOps & Tools**
+`Docker` `GitHub Actions` `Vercel` `Git` `Linux` `Postman`
 
 ---
 
@@ -129,16 +127,16 @@ Curated vault of 200+ data structure and algorithm implementations in C++ — ar
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nikh1lXDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=C9D1D9&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=Nikh1lXDev&theme=tokyonight&hide_border=true&background=0D1117&stroke=6E40C9&ring=6E40C9&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=6E40C9&sideLabels=6E40C9&dates=C9D1D9" alt="GitHub Streak" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nikh1lXDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikh1lXDev&theme=tokyonight&hide_border=true&background=0D1117&stroke=6E40C9&ring=6E40C9&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=6E40C9&sideLabels=6E40C9&dates=C9D1D9" alt="GitHub Streak" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikh1lXDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=C9D1D9&langs_count=8&cache_seconds=1800" alt="Top Languages" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikh1lXDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="42%" />
 
 <br/><br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nikh1lXDev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nikh1lXDev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
@@ -148,15 +146,23 @@ Curated vault of 200+ data structure and algorithm implementations in C++ — ar
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 Coding Profiles
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Nikh1lXDev/Nikh1lXDev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nikh1lXDev/Nikh1lXDev/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Nikh1lXDev/Nikh1lXDev/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
+<a href="https://leetcode.com/u/nikhil12121/">
+  <img src="https://leetcard.jacoblin.cool/nikhil12121?theme=tokyonight&font=Fira%20Code&ext=activity" alt="LeetCode Stats" width="80%" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.geeksforgeeks.org/profile/ny186ph1i">
+  <img src="https://raw.githubusercontent.com/Nikh1lXDev/Nikh1lXDev/main/gfg_card.svg" alt="GeeksForGeeks" width="45%" />
+</a>
+&nbsp;
+<a href="https://codolio.com/profile/NIKHIL%20KUMAR%20YADAV">
+  <img src="https://raw.githubusercontent.com/Nikh1lXDev/Nikh1lXDev/main/codolio_card.svg" alt="Codolio" width="45%" />
+</a>
 
 </div>
 
@@ -164,25 +170,27 @@ Curated vault of 200+ data structure and algorithm implementations in C++ — ar
 
 ## 🗺️ Currently Learning
 
-| Track | Progress | Next Milestone |
+| Track | Progress | Goal |
 |:---|:---|:---|
-| System Design | `▓▓▓▓▓░░░░░` 50% | Distributed systems, scalable DB design |
-| Docker & Kubernetes | `▓▓▓░░░░░░░` 35% | K8s production deployments, Helm |
-| AWS | `▓░░░░░░░░░` 15% | Solutions Architect Associate cert |
-| AI Engineering | `▓▓▓▓▓▓░░░░` 60% | RAG pipelines, fine-tuning, vector DBs |
-| DevOps / IaC | `▓▓░░░░░░░░` 25% | Terraform, Prometheus, Grafana |
+| System Design | ▓▓▓▓▓░░░░░ 50% | Distributed systems, scalable DB design |
+| Docker & Kubernetes | ▓▓▓░░░░░░░ 35% | K8s production deployments, Helm |
+| AWS | ▓░░░░░░░░░ 15% | Solutions Architect Associate |
+| AI Engineering | ▓▓▓▓▓▓░░░░ 60% | RAG, fine-tuning, vector DBs |
+| DevOps / IaC | ▓▓░░░░░░░░ 25% | Terraform, Prometheus, Grafana |
 
 ---
 
 ## 🚧 What I'm Building Now
 
+> *Updated July 2025*
+
 | | Project | Status |
 |:---:|:---|:---|
-| 🧠 | **AlphaLens AI** — Multi-agent investment research | 🔄 Active |
+| 🧠 | **AlphaLens AI** — Multi-agent investment research assistant | 🔄 Active |
 | 🏗️ | **Construction Quality Pulse** — Enterprise QA monitoring | 🔄 Active |
-| 📚 | **Daily DSA** — 1–2 problems/day on LeetCode & GFG | 📅 Daily |
+| 📚 | **Daily DSA** — 1–2 problems per day on LeetCode & GFG | 📅 Daily |
 | ⚙️ | **System Design** — Distributed systems & architecture | 📖 Learning |
-| 🤖 | **AI Agents** — RAG, memory systems, multi-modal | 🔬 Exploring |
+| 🤖 | **AI Agents** — RAG, memory systems, multi-modal agents | 🔬 Exploring |
 
 ---
 
@@ -193,7 +201,7 @@ Curated vault of 200+ data structure and algorithm implementations in C++ — ar
 <td width="33%" valign="top">
 
 **🏆 Hackathons**
-- Smart India Hackathon *(2024)*
+- Smart India Hackathon — Participant *(2024)*
 - Internal Hackathon @ LPU *(2024)*
 
 </td>
@@ -208,9 +216,10 @@ Curated vault of 200+ data structure and algorithm implementations in C++ — ar
 </td>
 <td width="33%" valign="top">
 
-**💼 Availability**
-- Open to full-stack / AI internships
-- Remote & on-site · from 2025
+**💼 Status**
+- Seeking full-stack / AI internship
+- Open to remote & on-site roles
+- Available from 2025
 - 📩 [ny186871@gmail.com](mailto:ny186871@gmail.com)
 
 </td>
@@ -222,7 +231,7 @@ Curated vault of 200+ data structure and algorithm implementations in C++ — ar
 ## 💡 Philosophy
 
 > *"Clarity over cleverness. Scalability over shortcuts. Impact over perfection.*
-> *Every system I design and every line I write is a commitment to code that lasts."*
+> Every system I design and every line I write is a commitment to code that lasts."*
 >
 > — Nikhil Kumar Yadav
 
@@ -231,7 +240,7 @@ Curated vault of 200+ data structure and algorithm implementations in C++ — ar
 ## 📅 Timeline
 
 ```
-2023  →  Started B.Tech CSE @ Lovely Professional University, Punjab
+2023  →  Started B.Tech CSE @ Lovely Professional University
 2024  →  Built first full-stack MERN projects · Deep-dived into DSA
 2025  →  AlphaLens AI · Construction Quality Pulse · System Design & DevOps
 2026  →  AI Engineering depth · Open source · Industry internship target
@@ -240,19 +249,9 @@ Curated vault of 200+ data structure and algorithm implementations in C++ — ar
 
 ---
 
-## 💬 Dev Quote
-
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
-
-</div>
-
----
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1200&color=6E40C9&center=true&vCenter=true&width=480&lines=Thanks+for+visiting+%E2%9D%A4%EF%B8%8F;Open+to+opportunities+%E2%80%94+let%27s+connect!;Happy+Coding+%F0%9F%9A%80)](https://github.com/Nikh1lXDev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1200&color=6E40C9&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+%E2%9D%A4%EF%B8%8F;Open+to+opportunities+%E2%80%94+let%27s+connect!;Happy+Coding+%F0%9F%9A%80)](https://github.com/Nikh1lXDev)
 
 <sub>Made with ❤️ by <a href="https://github.com/Nikh1lXDev"><strong>Nikhil Kumar Yadav</strong></a> · B.Tech CSE @ LPU · Full Stack & AI Engineer</sub>
 
